@@ -16,8 +16,12 @@ mark{
     background-color: #9a7dd4;
 }
 body{
-    background-color: #c2f7f0;
-    overflow-x: hidden;
+  
+  background:url(17925.jpg);
+    background-size: 100% auto;
+    /* filter: blur(8px); */
+
+    background-repeat: no-repeat;
 }
 
 button {
